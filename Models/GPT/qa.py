@@ -1,4 +1,4 @@
-from utils import *
+from utils import get_accuracy,get_image_url,generate,extract_row_column,generate_circled_letters,generate_mod_cqa
 from datasets import load_dataset
 import base64
 from pathlib import Path
