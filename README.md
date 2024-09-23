@@ -14,7 +14,7 @@ Vision-Language Models excel at complex tasks like OCR, VQA, and geometric reaso
 - We then used the extracted keywords to prompt the model to generate a caption that describes the image.
 - The caption, now acting as a detailed textual summary of the image, was fed into a language model to answer the original question.
 
-## Task 
+## Tasks
 - Counting the number of intersections between 2 lines(Task 1)
 - Checking whether two lines intersect(Task 2) 
 - Counting the number of nested squares in an image(Task 3)
